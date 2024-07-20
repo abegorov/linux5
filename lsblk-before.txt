@@ -1,0 +1,19 @@
+NAME              MAJ:MIN RM  SIZE RO TYPE MOUNTPOINTS
+sda                 8:0    0  128G  0 disk
+├─sda1              8:1    0    1G  0 part /boot
+└─sda2              8:2    0  127G  0 part
+  ├─centos9s-root 253:0    0  125G  0 lvm  /
+  └─centos9s-swap 253:1    0    2G  0 lvm  [SWAP]
+sdb                 8:16   0  128G  0 disk
+sdc                 8:32   0  100M  0 disk
+sdd                 8:48   0  100M  0 disk
+sde                 8:64   0  100M  0 disk
+sdf                 8:80   0  100M  0 disk
+sdg                 8:96   0  100M  0 disk
+sdh                 8:112  0  100M  0 disk
+sdi                 8:128  0  100M  0 disk
+sdj                 8:144  0  100M  0 disk
+sdk                 8:160  0  100M  0 disk
+sdl                 8:176  0  100M  0 disk
+sdm                 8:192  0  100M  0 disk
+sdn                 8:208  0  100M  0 disk
